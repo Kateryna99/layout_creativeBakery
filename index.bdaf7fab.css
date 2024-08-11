@@ -1,0 +1,45 @@
+@font-face {
+  font-family: icomoon;
+  src: url("icomoon.b5354c5a.eot");
+  src: url("icomoon.b5354c5a.eot#iefix") format("embedded-opentype"), url("icomoon.7d25459c.ttf") format("truetype"), url("icomoon.1ea5e54d.woff") format("woff"), url("icomoon.7bd99ba4.svg#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  speak: never;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-family: icomoon !important;
+}
+
+.icon-Icon-twitter:before {
+  content: "";
+}
+
+.icon-Icon-facebook:before {
+  content: "";
+}
+
+.icon-Icon-instagram:before {
+  content: "";
+}
+
+.icon-Icon-arrow:before {
+  content: "";
+}
+
+.icon-Icon-phone:before {
+  content: "";
+}
+
+.icon-Icon-cookie:before {
+  content: "";
+}
+/*# sourceMappingURL=index.bdaf7fab.css.map */

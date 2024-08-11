@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Inter 18pt";
+  src: url("Inter18pt-Regular.1efcf487.eot");
+  src: url("Inter18pt-Regular.1efcf487.eot#iefix") format("embedded-opentype"), url("Inter18pt-Regular.8a20a1a2.woff2") format("woff2"), url("Inter18pt-Regular.8c14fdcc.woff") format("woff"), url("Inter18pt-Regular.0c6bec8f.ttf") format("truetype"), url("Inter18pt-Regular.2de3158a.svg#Inter18pt-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter 18pt";
+  src: url("Inter18pt-Medium.006aa9a9.eot");
+  src: url("Inter18pt-Medium.006aa9a9.eot#iefix") format("embedded-opentype"), url("Inter18pt-Medium.ea1b41d2.woff2") format("woff2"), url("Inter18pt-Medium.51594e87.woff") format("woff"), url("Inter18pt-Medium.54858c86.ttf") format("truetype"), url("Inter18pt-Medium.75ff1543.svg#Inter18pt-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+/*# sourceMappingURL=index.cabc37ad.css.map */
